@@ -3,7 +3,7 @@
 <recovery>
 	<details>
 		<resolution width="480" height="800" />
-		<author>Coby (modified by RisingFog, and modified again by privatekey, and modified again by dermann "v0.4")</author>
+		<author>Coby (modified by RisingFog, privatekey, dermann, and marduk191 "v0.4")</author>
 		<title>Backup Naowz</title>
 		<description>Default basic theme</description>
 		<preview>preview.jpg</preview>
